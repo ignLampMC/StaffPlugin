@@ -1,0 +1,6 @@
+name: StaffPlugin
+version: '${project.version}'
+main: me.ignlamp.staffplugin.Core
+api-version: 1.19
+authors: [ ignLamp, TheyLoveJosh ]
+description: Public staff plugin
